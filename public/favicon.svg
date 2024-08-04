@@ -1,0 +1,17 @@
+<svg fill="none" stroke-width="2" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-linecap="round"
+    stroke-linejoin="round" viewBox="0 0 24 24" height="1em" width="1em"
+    style="overflow: visible; color: currentcolor;">
+    <style>
+        path {
+            color: #333;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            path {
+                color: #ccc;
+            }
+        }
+    </style>
+    <path d="M12 1A7 7 0 1 0 12 15 7 7 0 1 0 12 1z"></path>
+    <path d="M8.21 13.89 7 23 12 20 17 23 15.79 13.88"></path>
+</svg>
